@@ -1,9 +1,17 @@
 .header {
   background-color: rgb(106, 65, 95);
   color: white;
+  margin: 50px;
+  padding: 30px;
+  font-size: 24px;
 }
 
 .footer {
   background-color: rgb(106, 65, 95);
   color: white;
+  margin: 50px;
+  padding: 30px;
+}
+button {
+  margin-right: 70px;
 }
